@@ -1,0 +1,22 @@
+[
+  {"comment": "Home/Start Position", "x": 0, "y": 150, "z": 200, "gripper": 0, "speed": 60},
+
+  {"comment": "--- PHASE 1: PICK (Vertical) ---", "x": 0, "y": 0, "z": 0, "gripper": 0, "speed": 0},
+  {"comment": "Hover Above Pick (Right)", "x": 250, "y": 0, "z": 150, "gripper": 0, "speed": 100},
+  {"comment": "Descend Straight Down", "x": 250, "y": 0, "z": 15, "gripper": 0, "speed": 40},
+  {"comment": "Grasp", "x": 250, "y": 0, "z": 15, "gripper": 1, "speed": 20},
+  {"comment": "Lift Straight Up", "x": 250, "y": 0, "z": 150, "gripper": 1, "speed": 50},
+
+  {"comment": "--- PHASE 2: THE ARC (Curve) ---", "x": 0, "y": 0, "z": 0, "gripper": 0, "speed": 0},
+  {"comment": "Arc Start", "x": 150, "y": 0, "z": 220, "gripper": 1, "speed": 80},
+  {"comment": "Arc Peak (Center)", "x": 0, "y": 0, "z": 260, "gripper": 1, "speed": 80},
+  {"comment": "Arc End", "x": -150, "y": 0, "z": 220, "gripper": 1, "speed": 80},
+
+  {"comment": "--- PHASE 3: PLACE (Vertical) ---", "x": 0, "y": 0, "z": 0, "gripper": 0, "speed": 0},
+  {"comment": "Hover Above Place (Left)", "x": -250, "y": 0, "z": 150, "gripper": 1, "speed": 80},
+  {"comment": "Descend Straight Down", "x": -250, "y": 0, "z": 15, "gripper": 1, "speed": 40},
+  {"comment": "Release", "x": -250, "y": 0, "z": 15, "gripper": 0, "speed": 20},
+  {"comment": "Retract Straight Up", "x": -250, "y": 0, "z": 150, "gripper": 0, "speed": 100},
+
+  {"comment": "Return Home", "x": 0, "y": 150, "z": 200, "gripper": 0, "speed": 80}
+]
