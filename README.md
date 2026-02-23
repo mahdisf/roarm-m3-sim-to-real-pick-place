@@ -161,7 +161,7 @@ The final result was a stable demonstration of a low-cost educational arm runnin
 
 ## Build and Run
 
-0. Watch this base implementation video:
+1. Watch this base implementation video:
 Waveshare setup tutorial: https://www.youtube.com/watch?v=aGMcTiRKnYQ
 This will help you to initiate the base virtual machine and software correctly.
 
@@ -188,7 +188,7 @@ ros2 launch roarm_p auto_pick.launch.py
 
 ## Authors
 
-- Seyed Mahdi Sarfarazi
+- Mahdi Sarfarazi
 - Amin Parsafar
 - Mohammad Hossein Ebrahimi
 
