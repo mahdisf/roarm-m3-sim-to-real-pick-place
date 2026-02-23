@@ -1,0 +1,44 @@
+YouTube Title
+RoArm-M3 Pro Sim-to-Real Pick-and-Place with ROS2 + MoveIt | Advanced Robotics Project
+
+
+YouTube Caption
+In this project, we modeled and controlled the RoArm-M3 Pro robot arm using ROS2, MoveIt, and RViz, then transferred the same motion pipeline from simulation to the real robot.
+
+What you will see:
+- Kinematic modeling and workspace analysis
+- Pick-and-place trajectory planning
+- ROS2 custom node implementation
+- Sim-to-Real execution on physical hardware
+
+Get the full source code + report on GitHub:
+https://github.com/mahdisf/roarm-m3-sim-to-real-pick-place
+
+If this helps your robotics work, star the repo and subscribe for more ROS2/robotics projects.
+
+#ROS2 #MoveIt #Robotics #SimToReal #PickAndPlace #RViz #Mechatronics #RoArmM3
+
+
+LinkedIn Post Caption
+Excited to share our Advanced Robotics course project: a complete Sim-to-Real pipeline for the RoArm-M3 Pro robot arm using ROS2, MoveIt, and RViz.
+
+We implemented kinematic modeling, trajectory planning, and a custom ROS2 node for repeated pick-and-place, then validated the same workflow on the real robot.
+
+Team members:
+- Seyed Mahdi Sarfarazi
+- Amin Parsafar
+- Mohammad Hossein Ebrahimi
+
+Course instructor:
+- Dr. Seyed Hassan Zabihi Far
+
+Project repository (code + report):
+https://github.com/mahdisf/roarm-m3-sim-to-real-pick-place
+
+I appreciate the collaboration of my teammates and the guidance of our instructor throughout this project.
+
+#AdvancedRobotics #ROS2 #MoveIt #SimToReal #RoboticsEngineering #Mechatronics #ResearchProject
+
+
+Tag-ready version (replace with real LinkedIn handles)
+Proud to share our Advanced Robotics Sim-to-Real project with [@Seyed Mahdi Sarfarazi], [@Amin Parsafar], and [@Mohammad Hossein Ebrahimi], under the guidance of [@Dr. Seyed Hassan Zabihi Far]. Full repo: https://github.com/mahdisf/roarm-m3-sim-to-real-pick-place
