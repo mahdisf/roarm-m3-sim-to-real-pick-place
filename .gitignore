@@ -23,3 +23,6 @@ Thumbs.db
 *.tar
 *.gz
 *.vmdk
+
+# Local image generation scratch
+assets/tmp_thumb/
