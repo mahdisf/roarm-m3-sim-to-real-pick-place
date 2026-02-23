@@ -161,7 +161,11 @@ The final result was a stable demonstration of a low-cost educational arm runnin
 
 ## Build and Run
 
-1. Put `roarm_p` inside your ROS2 workspace.
+0. Watch this base implementation video:
+Waveshare setup tutorial: https://www.youtube.com/watch?v=aGMcTiRKnYQ
+This will help you to initiate the base virtual machine and software correctly.
+
+2. Put `roarm_p` inside your ROS2 workspace.
 
 ```bash
 mkdir -p ~/roarm_ws/src/roarm_main
